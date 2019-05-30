@@ -1,3 +1,5 @@
+### This project isn't finished yet. I still need to finish the logic for the buttons
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
